@@ -1,5 +1,5 @@
 import React from 'react';
-import './FeaturedProducts.css';
+import './FeaturedProduct.css';
 
 const FeaturedProducts = () => {
   const products = [
